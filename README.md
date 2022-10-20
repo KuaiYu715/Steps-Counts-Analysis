@@ -5,7 +5,10 @@
 
 ## What are the trends in my week to week data?
 
-Outline the driving question behind the project.
+Outline the driving question behind the project. Sub question and summery of driving question.
+
+Individual link: code, wiki, issue
+Group link: 
 
 ## Table of contents
 
