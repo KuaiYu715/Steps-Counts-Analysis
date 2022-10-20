@@ -1,9 +1,9 @@
 # 2022-DATA3406-CC05-Group1
 # Project title
 
-Short description about the project.
+(Short description about the project.)
 
-## Driving question
+## What are the trends in my week to week data?
 
 Outline the driving question behind the project.
 
