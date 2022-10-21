@@ -12,6 +12,12 @@ Group link:
 
 ## Table of contents
 
+### Sub-question 
+How many weeks has less steps relativity?
+What is the seasonality of the week to week data?
+What is the probability that the total steps for a week is lower than recommended? As doctors generally consider fewer than 6500 steps per day to be sedentary.
+
+
 1. Section 1
 2. Section 2
 3. Section 3
