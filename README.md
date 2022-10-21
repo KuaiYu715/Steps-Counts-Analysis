@@ -7,14 +7,27 @@
 
 Outline the driving question behind the project. Sub question and summery of driving question.
 
+## Group members
+Leader:
+Tracker:
+Team mebmer :
+> 500516414 
+>Data analize code https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/tree/main/Process%20notebook/Yuxiang%20Ji/Data
+>Data sets https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/tree/main/Process%20notebook/Yuxiang%20Ji/Dataset
+>Wiki page https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/wiki/Yuxiang-Ji
+Team mebmer :
+Team mebmer :
+Team mebmer :
 Individual link: code, wiki, issue
 Group link: 
 
 ## Table of contents
 
-### Sub-question 
+### Sub-questions
 How many weeks has less steps relativity?
+
 What is the seasonality of the week to week data?
+
 What is the probability that the total steps for a week is lower than recommended? As doctors generally consider fewer than 6500 steps per day to be sedentary.
 
 
