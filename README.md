@@ -44,8 +44,8 @@ What is the probability that the total steps for a week is lower than recommende
 
 ### Data origin
 
-Our data is about steps data for each day recorded by participants' activity trackers. Some trackers recorded the steps data seperated by time in hours or date. 
-
+Our data is about steps data for each day recorded by participants' activity trackers. Some trackers recorded the steps data seperated by time in hours or date. Predictors are asked for step data. Most of data are gotten from Apple Health processed with a python script to convert the xml to csv.
+ 
 ### Data definitions
 
 Summary of files, tables, and fields. You can use markdown `tables` here to improve the formating of the information.
