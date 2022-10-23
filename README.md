@@ -12,7 +12,7 @@ Leader:
 
 Tracker:
 
-Team mebmer : 500516414 
+Team mebmer : Yuixang Ji 500516414 
 
 >Data analize code https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/tree/main/Process%20notebook/Yuxiang%20Ji/Data
 
