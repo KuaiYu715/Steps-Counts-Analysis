@@ -1,7 +1,12 @@
 # 2022-DATA3406-CC05-Group1
+
+## Table of contents
+
+
 # Project title
 
 (Short description about the project.)
+
 
 ## What are the trends in my week to week data?
 
@@ -26,7 +31,7 @@ Team mebmer :
 Individual link: code, wiki, issue
 Group link: 
 
-## Table of contents
+
 
 ## Sub-questions
 How many weeks has less steps relativity?
