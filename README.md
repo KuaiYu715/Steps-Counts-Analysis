@@ -28,7 +28,7 @@ Group link:
 
 ## Table of contents
 
-### Sub-questions
+## Sub-questions
 How many weeks has less steps relativity?
 
 What is the seasonality of the week to week data?
@@ -42,16 +42,17 @@ How does week-to-week data illustrates the probability of participate getting un
 
 ## Background
 
-### Data origin
+## Data origin
 
 Our data is about steps data for each day recorded by participants' activity trackers. Some trackers recorded the steps data seperated by time in hours or date. Predictors are asked for step data. Most of data are gotten from Apple Health processed with a python script to convert the xml to csv.
  
-### Data definitions
+## Data definitions
 
 Summary of files, tables, and fields. You can use markdown `tables` here to improve the formating of the information.
 
-### Ethics
+## Ethicals considerations
 
+ 
 ## Getting started
 
 Short list of intructions for new collaborators to get up and running with the project.
@@ -70,6 +71,11 @@ Intructions on how to contribute to the project. Consider having a `CONTRIBUTING
 ## Project owner(s) & contact details
 
 Contact details of the people who created and/or are maintaing the project.
+
+
+## References
+How Many Steps/Day Are Enough?
+https://link.springer.com/article/10.2165/00007256-200434010-00001
 
 ## License
 
