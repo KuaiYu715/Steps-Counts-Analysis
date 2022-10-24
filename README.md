@@ -36,21 +36,32 @@ What is the seasonality of the week to week data?
 How does week-to-week data illustrates the probability of participate getting unhealthy? As doctors generally consider fewer than 10000 steps per day to be sedentary.
 
 
+
+
 1. Section 1
 2. Section 2
 3. Section 3
 
 ## Background
 
-## Data origin
+## Data
+
+### Key files
+
+### Data origin
 
 Our data is about steps data for each day recorded by participants' activity trackers. Some trackers recorded the steps data seperated by time in hours or date. Predictors are asked for step data. Most of data are gotten from Apple Health processed with a python script to convert the xml to csv.
  
-## Data definitions
+### Data definitions
 
 Summary of files, tables, and fields. You can use markdown `tables` here to improve the formating of the information.
 
 ## Ethicals considerations
+
+### Why it is matters
+
+### Stakeholder analysis
+
 
  
 ## Getting started
