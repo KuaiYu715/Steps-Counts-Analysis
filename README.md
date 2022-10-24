@@ -13,9 +13,9 @@
 Outline the driving question behind the project. Sub question and summery of driving question.
 
 ## Group members
-Leader:
+Leader: Lixin Mu 490570753
 
-Tracker:
+Tracker: Ran Sun 510224273
 
 Team mebmer : Yuixang Ji 500516414 
 
