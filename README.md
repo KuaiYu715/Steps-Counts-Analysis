@@ -19,11 +19,11 @@ Tracker: Ran Sun 510224273
 
 README co-ordinator: Yuixang Ji 500516414 
 
-GitHub expert: Kuai Yu
+GitHub expert: Kuai Yu 
 
-Group coordinator: Pengyu Liu
+Group coordinator: Pengyu Liu 
 
-Code adviser: De Shi
+Code adviser: De Shi 
 
 >Data analize code https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/tree/main/Process%20notebook/Yuxiang%20Ji/Data
 
