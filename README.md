@@ -1,5 +1,19 @@
 # 2022-DATA3406-CC05-Group1
 
+- Title of project
+
+- Proejct description
+
+- Names of team members
+
+- Table of contents (showing the organisation of the project, listing each process notebook and the product notebook)
+
+- List of key files and describes key variables needed to understand the product notebook.
+
+- README documents the location of relevant materials for assessment, labelled as in the Assignment 2 criteria so they are very, very easy for the marker to find.
+
+- README – has an overview of each team member's work, with links to wiki pages, code files, Issues so the marker can easily review the final versions of the "pragmatics" work.`
+
 ## Table of contents
 
 
