@@ -41,8 +41,11 @@
 
 # Proejct description
 
+**How do people walk?** --- `Analysis on people’s weekly step count data`
 
-` How do people walk?`
+
+
+
 
 
 ## What are the trends in my week to week data?
