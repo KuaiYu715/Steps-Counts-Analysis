@@ -50,17 +50,25 @@ Advanced electronic device are simple and inexpensive wearable motion sensors th
 
 # Group members and contracts
 
-Group manager: Lixin Mu 490570753
+1. When you will reserve a time to meet outside of class each week, for the 
+weeks that are needed.
+* `Every Sunday.`
+2. How you will meet – include here details people need to know.
+* `We meet face to face in fisher library.`
+3. How you will communicate e.g. mail and agreed response time.
+* `Wechat platform.`
 
-Tracker: Ran Sun 510224273
+* `Group manager:` Lixin Mu 490570753
 
-GitHub expert: Kuai Yu 
+* `Tracker:` Ran Sun 510224273
 
-README co-ordinator: Yuxiang Ji 500516414
+* `GitHub expert:` Kuai Yu 
 
-Group coordinator: Pengyu Liu 
+* `README co-ordinator:` Yuxiang Ji 500516414
 
-Code adviser: De Shi 510526247
+* `Group coordinator:` Pengyu Liu 500679649
+
+* `Code adviser:` De Shi 510526247
 
 
 
