@@ -6,16 +6,37 @@
 - Group members and contracts
 
 - Ethical Considerations
+  
+  - Why it matters
+  
+  - Stakeholder Analysis
+  
+  - Raw Data
+  
+- Key files
+
+- Project Deliverables
+
+  - Presnetation
+
+  - Product notebook
+ 
+  - Cognitive Walkthrough
+  
+  - Think Aloud
+  
+  - Reflection on Group Process
+  
+- Variables
+
+  - Cleaning Product Notebook
+  
+  - Analysis Product Notebook
 
 
-- Table of contents (showing the organisation of the project, listing each process notebook and the product notebook)
+- Individual Contribution
 
-- List of key files and describes key variables needed to understand the product notebook.
-
-- README documents the location of relevant materials for assessment, labelled as in the Assignment 2 criteria so they are very, very easy for the marker to find.
-
-- README – has an overview of each team member's work, with links to wiki pages, code files, Issues so the marker can easily review the final versions of the "pragmatics" work.`
-
+- References
 ## Table of contents
 
 
