@@ -29,12 +29,14 @@
   
 - Variables
 
-  - Cleaning Product Notebook
+  - Cleaning Process Notebook
   
   - Analysis Product Notebook
 
 
 - Individual Contribution
+
+- Reflection on group process
 
 - References
 ## Table of contents
