@@ -62,7 +62,7 @@ weeks that are needed.
 
 * `Tracker:` Ran Sun 510224273
 
-* `GitHub expert:` Kuai Yu 
+* `GitHub expert:` Kuai Yu 490443550
 
 * `README co-ordinator:` Yuxiang Ji 500516414
 
