@@ -1,7 +1,7 @@
 # 2022-DATA3406-CC05-Group1
 
 
-- Proejct description
+- [Proejct description](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/blob/main/README.md#proejct-description)
 
 - Group members and contracts
 
