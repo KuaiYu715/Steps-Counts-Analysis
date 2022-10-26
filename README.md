@@ -37,12 +37,12 @@
 - Individual Contribution
 
 - References
-## Table of contents
 
 
-# Project title
+# Proejct description
 
-(Short description about the project.)
+
+` How do people walk?`
 
 
 ## What are the trends in my week to week data?
