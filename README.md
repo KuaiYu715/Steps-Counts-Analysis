@@ -6,6 +6,8 @@
 - [Group members and contracts](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/blob/main/README.md#group-members-and-contracts)
 
 - Ethical Considerations
+
+  - Purpose
   
   - Why it matters
   
