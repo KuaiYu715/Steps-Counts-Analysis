@@ -84,21 +84,9 @@ weeks that are needed.
 
 
 
-## Sub-questions
-How many weeks has less steps relativity?
-
-What is the seasonality of the week to week data?
-
-How does week-to-week data illustrates the probability of participate getting unhealthy? As doctors generally consider fewer than 10000 steps per day to be sedentary.
 
 
-
-
-1. Section 1
-2. Section 2
-3. Section 3
-
-## Background
+# Ethical Considerations
 
 ## Data
 
