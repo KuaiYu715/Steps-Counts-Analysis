@@ -93,12 +93,15 @@ weeks that are needed.
 
 -------------------
 
-### Purpose:The purposes involved ethical issues from in sample data and out of sample data. 
+## Purpose
+
+* #### ***The purposes involved ethical issues from in sample data and out of sample data.*** 
+
 `In sample data`
-* We explored different participants' datasets to discover some possible factors that will be affecting weekly step counts based on potential aspect of health.
+  * We explored different participants' datasets to discover some possible factors that will be affecting weekly step counts based on potential aspect of health.
 
 `Out of sample data`
-* For fairness, we were trying to reach our results as many people as possible to be more comprehensive in out of sample data. Hence, we were trying to use a classification algorithm to predict probability of being healthy not only stakeholders but also majorities.
+  * For fairness, we were trying to reach our results as many people as possible to be more comprehensive in out of sample data. Hence, we were trying to use a classification algorithm to predict probability of being healthy not only stakeholders but also majorities.
 
 ## Data
 
