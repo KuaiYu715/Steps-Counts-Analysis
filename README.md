@@ -58,7 +58,7 @@ weeks that are needed.
 3. How you will communicate e.g. mail and agreed response time.
 * `Wechat platform.`
 
------------------------------------------------------------------
+<br>
 
 * `Group manager:` Lixin Mu 490570753
 
