@@ -50,20 +50,18 @@ Advanced electronic device are simple and inexpensive wearable motion sensors th
 
 # Group members and contracts
 
-Outline the driving question behind the project. Sub question and summery of driving question.
-
-## Group members
-Leader: Lixin Mu 490570753
+Group manager: Lixin Mu 490570753
 
 Tracker: Ran Sun 510224273
 
-README co-ordinator: Yuixang Ji 500516414 
-
 GitHub expert: Kuai Yu 
+
+README co-ordinator: Yuxiang Ji 500516414
 
 Group coordinator: Pengyu Liu 
 
-Code adviser: De Shi 
+Code adviser: De Shi 510526247
+
 
 
 
