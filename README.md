@@ -4,7 +4,6 @@
 - Proejct description
 
 - Group members and contracts
-Leader
 
 - Ethical Considerations
   
