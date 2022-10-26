@@ -17,7 +17,7 @@
 
 - Project Deliverables
 
-  - Presnetation
+  - Presentation
 
   - Product notebook
  
@@ -35,8 +35,6 @@
 
 
 - Individual Contribution
-
-- Reflection on group process
 
 - References
 ## Table of contents
