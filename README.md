@@ -66,7 +66,7 @@ weeks that are needed.
 2. How you will meet – include here details people need to know.
 * `We meet face to face in fisher library.`
 3. How you will communicate e.g. mail and agreed response time.
-* `Wechat platform.`
+* `Wechat platform and zoom at 3pm sharp.`
 
 <br>
 
