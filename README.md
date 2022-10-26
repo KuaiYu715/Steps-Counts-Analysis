@@ -42,7 +42,13 @@
 # Proejct description
 
 **How do people walk?** --- `Analysis on people’s weekly step count data`
-![Apple_airtag-accessories-042021_big_carousel jpg large](https://media.github.sydney.edu.au/user/10750/files/2b635ec9-89ea-4146-9a24-c96e78aee2a9)
+
+
+
+
+<img width="875" alt="截屏2022-10-26 下午9 57 03" src="https://media.github.sydney.edu.au/user/10750/files/4142496f-210f-4cb7-a3f6-f6c99d1102e2">
+
+
 
 
 Advanced electronic device are simple and inexpensive wearable motion sensors that are easily used by researchers and practitioners to assess and motivate physical activity behaviors. Hence pedometer-determined physical activity indices are needed to guide their accumulated data. Our report is introducing some specific factors that would affect step counts weekly and evaluating the probability of being healthy based on in sample data applied to logistic regression.
