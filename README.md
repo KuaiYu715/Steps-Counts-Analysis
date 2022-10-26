@@ -58,6 +58,8 @@ weeks that are needed.
 3. How you will communicate e.g. mail and agreed response time.
 * `Wechat platform.`
 
+-----------------------------------------------------------------
+
 * `Group manager:` Lixin Mu 490570753
 
 * `Tracker:` Ran Sun 510224273
