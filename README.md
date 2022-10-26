@@ -110,6 +110,15 @@ Summary of files, tables, and fields. You can use markdown `tables` here to impr
 
 ### Raw Data
 
+o `Nature of raw data include Categorical and numerical`
+
+Categorical: the date for start, date for finish 
+
+numerical: the stpes count 
+
+o `Describe the process of data collection.`
+Collection includes apple watch ,electrical trackers.
+
 
  
 ## Getting started
