@@ -1,10 +1,12 @@
 # 2022-DATA3406-CC05-Group1
 
-- Title of project
 
 - Proejct description
 
-- Names of team members
+- Group members and contracts
+
+- Ethical Considerations
+
 
 - Table of contents (showing the organisation of the project, listing each process notebook and the product notebook)
 
