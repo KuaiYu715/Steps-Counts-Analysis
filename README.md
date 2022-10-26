@@ -48,7 +48,7 @@ Advanced electronic device are simple and inexpensive wearable motion sensors th
 
 
 
-## What are the trends in my week to week data?
+# Group members and contracts
 
 Outline the driving question behind the project. Sub question and summery of driving question.
 
