@@ -103,7 +103,18 @@ weeks that are needed.
 `Out of sample data`
   * For fairness, we were trying to reach our results as many people as possible to be more comprehensive in out of sample data. Hence, we were trying to use a classification algorithm to predict probability of being healthy not only stakeholders but also majorities.
 
-## Data
+## Why it matters?
+
+* #### ***Ethical issues concern the well-being of every participant involved. It covers the privacy of participants, fairness of data analysis and results, data usage, etc.***
+
+`Privacy`
+
+*  First of all, privacy should be taken into account when collecting the data and resulting in the final conclusions. All participants must have been told that the step activity data would be collected afterward that would not be leaked and intercepted by a third-party cloud server for some unauthorized exchange of benefits. 
+
+`Fairness`
+
+* For fairness of results, the conclusion should be applied to the majority of people in order to promote heteroskedasticity.
+
 
 ### Key files
 
