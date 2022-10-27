@@ -45,13 +45,17 @@
 
 **How do people walk?** --- `Analysis on people’s weekly step count data`
 
+- **Driving Question** 
+
+  - What are the trends in my week to week data?
+
 - **Sub-questions**
-  - **Pengyu Liu** Does the steps for each week affect by season?
-  - **De Shi** How does week-to-week steps affect by the rainfall?
-  - **Ran Sun** Does temperature affect people's willingness to walk?
-  - **Lixin Mu** Are students less active during the exam week?
-  - **Kuai Yu** How does the weekly data reflect the risk of diagnosing diabetes?
-  - **Yuxiang Ji** How does the weekly data reflect the probability of participant health?
+  - Does the steps for each week affect by season?
+  - How does week-to-week steps affect by the rainfall?
+  - Does temperature affect people's willingness to walk?
+  - Are students less active during the exam week?
+  - How does the weekly data reflect the risk of diagnosing diabetes?
+  - How does the weekly data reflect the probability of participant health?
 
 
 
