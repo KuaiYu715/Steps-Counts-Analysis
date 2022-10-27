@@ -2,12 +2,6 @@
 
 
 - [Proejct description](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/blob/main/README.md#proejct-description)
-  - **Pengyu Liu** Does the steps for each week affect by season?
-  - **De Shi** How does week-to-week steps affect by the rainfall?
-  - **Ran Sun** Does temperature affect people's willingness to walk?
-  - **Lixin Mu** Are students less active during the exam week?
-  - **Kuai Yu** How does the weekly data reflect the risk of diagnosing diabetes?
-  - **Yuxiang Ji** How does the weekly data reflect the probability of participant health?
 
 - [Group members and contracts](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/blob/main/README.md#group-members-and-contracts)
 
@@ -50,6 +44,14 @@
 # Proejct description
 
 **How do people walk?** --- `Analysis on people’s weekly step count data`
+
+- **Sub-questions**
+  - **Pengyu Liu** Does the steps for each week affect by season?
+  - **De Shi** How does week-to-week steps affect by the rainfall?
+  - **Ran Sun** Does temperature affect people's willingness to walk?
+  - **Lixin Mu** Are students less active during the exam week?
+  - **Kuai Yu** How does the weekly data reflect the risk of diagnosing diabetes?
+  - **Yuxiang Ji** How does the weekly data reflect the probability of participant health?
 
 
 
