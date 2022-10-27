@@ -30,7 +30,7 @@
   
   - Reflection on Group Process
   
-- [Key Variables]()
+- [Key Variables](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/wiki/Key-variables)
 
 
 
