@@ -21,6 +21,8 @@
   - Product notebook
   
   - Meeting minutes
+  
+  - Ethical analysis
  
   - Cognitive Walkthrough
   
