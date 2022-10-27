@@ -17,9 +17,6 @@
   
 - Key files
 
-- Project Deliverables
-
-  - Presentation
 
   - Product notebook
  
