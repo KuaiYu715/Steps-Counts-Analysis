@@ -167,9 +167,11 @@ Contact details of the people who created and/or are maintaing the project.
 
 ## References
 How Many Steps/Day Are Enough?
+
 https://link.springer.com/article/10.2165/00007256-200434010-00001
 
 How walking steps contributes reducing risk of diabetes.
+
 Colberg, S. R., Sigal, R. J., Fernhall, B., Regensteiner, J. G., Blissmer, B. J., Rubin, R. R., Chasan-Taber, L., Albright, A. L., & Braun, B. (2010). Exercise and type 2 diabetes: The American College of Sports Medicine and the American Diabetes Association: Joint position statement. Diabetes Care, 33(12), e147–e167. https://doi.org/10.2337/dc10-9990
 
 ## License
