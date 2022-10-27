@@ -19,6 +19,8 @@
 
 
   - Product notebook
+  
+  - Meeting minutes
  
   - Cognitive Walkthrough
   
