@@ -24,9 +24,9 @@
   
   - Ethical analysis
  
-  - Cognitive Walkthrough
+  - Cognitive walkthrough
   
-  - Think Aloud
+  - Think aloud
   
   - Reflection on Group Process
   
