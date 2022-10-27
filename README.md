@@ -43,7 +43,9 @@
 
 # Proejct description
 
-**How do people walk?** --- `Analysis on people’s weekly step count data`
+- **Project title**
+
+  - **How do people walk?** --- `Analysis on people’s weekly step count data`
 
 - **Driving Question** 
 
