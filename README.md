@@ -129,10 +129,11 @@ weeks that are needed.
 * For fairness of results, the conclusion should be applied to the majority of people in order to promote heteroskedasticity.
 
 
-# Individual Contribution
-
 
 # Key files
+
+
+# Individual Contribution
 
 ### Data origin
 
