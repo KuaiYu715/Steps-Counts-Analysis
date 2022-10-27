@@ -47,15 +47,15 @@
 
 - **Driving Question** 
 
-  - What are the trends in my week to week data?
+  - `What are the trends in my week to week data?`
 
 - **Sub-questions**
-  - Does the steps for each week affect by season?
-  - How does week-to-week steps affect by the rainfall?
-  - Does temperature affect people's willingness to walk?
-  - Are students less active during the exam week?
-  - How does the weekly data reflect the risk of diagnosing diabetes?
-  - How does the weekly data reflect the probability of participant health?
+  - `Does the steps for each week affect by season?`
+  - `How does week-to-week steps affect by the rainfall?`
+  - `Does temperature affect people's willingness to walk?`
+  - `Are students less active during the exam week?`
+  - `How does the weekly data reflect the risk of diagnosing diabetes?`
+  - `How does the weekly data reflect the probability of participant health?`
 
 
 
