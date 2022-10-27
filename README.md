@@ -32,9 +32,6 @@
   
 - Variables
 
-  - Cleaning Process Notebook
-  
-  - Analysis Product Notebook
 
 
 - Individual Contribution
