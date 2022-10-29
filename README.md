@@ -143,16 +143,20 @@ weeks that are needed.
 `Nature of raw data include Categorical and numerical`
 
 * **Categorical**: Date.
+ <br>
 
 * **Numerical**: Step counts.
 
 * **Why the nature of data is needed, there are 3 important point  which  is to be able to distinguish between different kinds of data because their nature has
 important implications for their reliability and for the sort of analysis to which they can be subjected.**
 
+<br>
 
 `Describe the process of data collection.`
 
 * **Collection methods**: Apple watch ,Electrical trackers.
+
+<br>
 
  `Describe aspects related to data ownership and data owners.`
 
@@ -160,15 +164,19 @@ important implications for their reliability and for the sort of analysis to whi
 
 * **Data owners**:  Our coordinator --- Judy Kay.
 
+<br>
 
 `State any potential conflicts of interest.`
 
 * **So the data is mostly about the privacy of the data ownership, their privacy might be leak.Some data and result analyses by the data can be sensitive and Transparency,otherwise the data only for research use and not in a profit way.**
 
+<br>
 
 `Describe how you ensured anonymisation and reduced the risk of re-identification of data with the people and justify any actions taken (if your group collected data)`
 
 * **First the data without any personal identity, So we do not konw other information other than steps,Moreover our sub question is based on the aspect of relationship between steps and temperature, healthy,rainfall,seasons to research and analyses, those aspect does not attack personal identity, also our analyses all related to the outside factors which we have avoided to develop re-identification of data.**
+
+<br>
 
 `Describe how you have managed the data and will manage it at the completion of the project.`
 
@@ -178,16 +186,17 @@ important implications for their reliability and for the sort of analysis to whi
  
  # Key files
 
+## Product notbook.
+
+## Meeting minutes.
+
+## Reflection on Group Process
 
 
-### Data origin
+## Data origin
 
 Our data is about steps data for each day recorded by participants' activity trackers. Some trackers recorded the steps data seperated by time in hours or date. Predictors are asked for step data. Most of data are gotten from Apple Health processed with a python script to convert the xml to csv.
  
-### Data definitions
-
-
-## Ethicals considerations
 
 
 ## Cognitive walkthrough
@@ -200,6 +209,8 @@ Our data is about steps data for each day recorded by participants' activity tra
 | **De Shi**     | 第一列     | 第二列     |
 | **Pengyu Liu**     | 第一列     | 第二列     |
 | **Kuai Yu**     | 第一列     | 第二列     |
+
+## Think aloud
 
  # Individual Contribution
  
