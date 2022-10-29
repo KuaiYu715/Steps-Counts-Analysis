@@ -178,21 +178,21 @@ important implications for their reliability and for the sort of analysis to whi
 o `Describe the process of data collection.`
 Collection includes apple watch ,electrical trackers.
 
-o Describe aspects related to data ownership and data owners.
+o `Describe aspects related to data ownership and data owners.`
 
 data ownership: people who donated data in our class
 
 data owners: the data own by the teacher
 
 
-o State any potential conflicts of interest.
+o `State any potential conflicts of interest.`
 
 So the data is mostly about the privacy of the data ownership, their privacy might be leak.Some data and result analyses by the data can be sensitive and Transparency,otherwise the data only for research use and not in a profit way.
 
 
-o Describe how you ensured anonymisation and reduced the risk of re-identification of data with the people and justify any actions taken (if your group collected data)
+o `Describe how you ensured anonymisation and reduced the risk of re-identification of data with the people and justify any actions taken (if your group collected data)`
 
-o Describe how you have managed the data and will manage it at the completion of the project.
+o `Describe how you have managed the data and will manage it at the completion of the project.`
 
  
 ## Getting started
