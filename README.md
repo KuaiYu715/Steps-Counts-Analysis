@@ -134,11 +134,11 @@ weeks that are needed.
 
 
 
-### Stakeholder analysis
+## Stakeholder analysis
 
 ----
 
-### Raw Data
+## Raw Data
 
 `Nature of raw data include Categorical and numerical`
 
