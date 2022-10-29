@@ -24,7 +24,7 @@
   
   - [Ethical analysis](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/wiki/Ethical-consideration)
  
-  - Cognitive walkthrough
+  - [Cognitive walkthrough](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/blob/main/README.md#cognitive-walkthrough)
   
   - Think aloud
   
