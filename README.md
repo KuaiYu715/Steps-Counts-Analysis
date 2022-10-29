@@ -157,9 +157,27 @@ Categorical: the date for start, date for finish
 
 numerical: the stpes count 
 
+why the nature of data is needed, there are 3 important point  which  is to be able to distinguish between different kinds of data because their nature has
+important implications for their reliability and for the sort of analysis to which they can be subjected.
+
+
 o `Describe the process of data collection.`
 Collection includes apple watch ,electrical trackers.
 
+o Describe aspects related to data ownership and data owners.
+
+data ownership: people who donated data in our class
+
+data owners: the data own by the teacher
+
+
+o State any potential conflicts of interest.
+
+
+
+o Describe how you ensured anonymisation and reduced the risk of re-identification of data with the people and justify any actions taken (if your group collected data)
+
+o Describe how you have managed the data and will manage it at the completion of the project.
 
  
 ## Getting started
