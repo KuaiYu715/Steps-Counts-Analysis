@@ -130,30 +130,6 @@ weeks that are needed.
 
 
 
-# Key files
-
-
-
-### Data origin
-
-Our data is about steps data for each day recorded by participants' activity trackers. Some trackers recorded the steps data seperated by time in hours or date. Predictors are asked for step data. Most of data are gotten from Apple Health processed with a python script to convert the xml to csv.
- 
-### Data definitions
-
-
-## Ethicals considerations
-
-
-## Cognitive walkthrough
-
-| Name      | Advantage     | Disadvantage     |
-| ---------- | :-----------:  | :-----------: |
-| **Lixin Mu**     | 第一列     | 第二列     |
-| **Sun Ran**     | 第一列     | 第二列     |
-| **Yuxiang Ji**     | Good anlysis on logisitic regression and checked the accuracy of the model.| The data selected by logistic regression is random. It is unclear to distinguish the week which step data belons for.|
-| **De Shi**     | 第一列     | 第二列     |
-| **Pengyu Liu**     | 第一列     | 第二列     |
-| **Kuai Yu**     | 第一列     | 第二列     |
 
 
 
@@ -197,7 +173,34 @@ o `Describe how you have managed the data and will manage it at the completion o
 To how we managed the data, we first use colab to explore the data and see the detail information of the data, and simply do some data cleaning, with rename drop missing value, Based on our driving question we process the data into week-to-week form where we define the column week,steps.Then we use the data to do some analyses, and upload into github to protect the orginal data, otherwise, we also print out the data that has been cleaned and also upload into github, and we used it in the final product notebook.
 
  
+ 
+ # Key files
+
+
+
+### Data origin
+
+Our data is about steps data for each day recorded by participants' activity trackers. Some trackers recorded the steps data seperated by time in hours or date. Predictors are asked for step data. Most of data are gotten from Apple Health processed with a python script to convert the xml to csv.
+ 
+### Data definitions
+
+
+## Ethicals considerations
+
+
+## Cognitive walkthrough
+
+| Name      | Advantage     | Disadvantage     |
+| ---------- | :-----------:  | :-----------: |
+| **Lixin Mu**     | 第一列     | 第二列     |
+| **Sun Ran**     | 第一列     | 第二列     |
+| **Yuxiang Ji**     | Good anlysis on logisitic regression and checked the accuracy of the model.| The data selected by logistic regression is random. It is unclear to distinguish the week which step data belons for.|
+| **De Shi**     | 第一列     | 第二列     |
+| **Pengyu Liu**     | 第一列     | 第二列     |
+| **Kuai Yu**     | 第一列     | 第二列     |
+
  # Individual Contribution
+ 
 ## Getting started
 
 Short list of intructions for new collaborators to get up and running with the project.
