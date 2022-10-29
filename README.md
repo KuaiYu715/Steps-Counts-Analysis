@@ -176,6 +176,7 @@ important implications for their reliability and for the sort of analysis to whi
 
 
 o `Describe the process of data collection.`
+
 Collection includes apple watch ,electrical trackers.
 
 o `Describe aspects related to data ownership and data owners.`
@@ -192,7 +193,11 @@ So the data is mostly about the privacy of the data ownership, their privacy mig
 
 o `Describe how you ensured anonymisation and reduced the risk of re-identification of data with the people and justify any actions taken (if your group collected data)`
 
+First the data without any personal identity, So we do not konw other information other than steps,Moreover our sub question is based on the aspect of relationship between steps and temperature, healthy,rainfall,seasons to research and analyses, those aspect does not attack personal identity, also our analyses all related to the outside factors which we have avoided to develop re-identification of data.
+
 o `Describe how you have managed the data and will manage it at the completion of the project.`
+
+To how we managed the data, we first use colab to explore the data and see the detail information of the data, and simply do some data cleaning, with rename drop missing value, Based on our driving question we process the data into week-to-week form where we define the column week,steps.Then we use the data to do some analyses, and upload into github to protect the orginal data, otherwise, we also print out the data that has been cleaned and also upload into github, and we used it in the final product notebook.
 
  
 ## Getting started
