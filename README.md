@@ -187,7 +187,7 @@ data owners: the data own by the teacher
 
 o State any potential conflicts of interest.
 
-
+So the data is mostly about the privacy of the data ownership, so 
 
 o Describe how you ensured anonymisation and reduced the risk of re-identification of data with the people and justify any actions taken (if your group collected data)
 
