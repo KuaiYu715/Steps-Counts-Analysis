@@ -143,11 +143,10 @@ weeks that are needed.
 `Nature of raw data include Categorical and numerical`
 
 * **Categorical**: Date.
- <br>
 
 * **Numerical**: Step counts.
 
-* **Why the nature of data is needed, there are 3 important point  which  is to be able to distinguish between different kinds of data because their nature has
+* **Why the nature of data is needed, there are 3 important point which is to be able to distinguish between different kinds of data because their nature has
 important implications for their reliability and for the sort of analysis to which they can be subjected.**
 
 <br>
@@ -158,12 +157,14 @@ important implications for their reliability and for the sort of analysis to whi
 
 <br>
 
- `Describe aspects related to data ownership and data owners.`
+ `Describe aspects related to data ownership, data owners and data origin.`
 
 * **Data ownership**: People who donated data in our class
 
 * **Data owners**:  Our coordinator --- Judy Kay.
 
+* **Date origin**: Our data is about step data for each day recorded by participants' activity trackers. Some trackers recorded the steps data seperated by time in hours or date. Most of data had got from Apple Health processed with a python script to convert the xml to csv.
+* 
 <br>
 
 `State any potential conflicts of interest.`
