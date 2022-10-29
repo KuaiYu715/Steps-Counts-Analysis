@@ -140,39 +140,39 @@ weeks that are needed.
 
 ### Raw Data
 
-o `Nature of raw data include Categorical and numerical`
+`Nature of raw data include Categorical and numerical`
 
-Categorical: the date for start, date for finish 
+* **Categorical**: Date.
 
-numerical: the stpes count 
+* **Numerical**: Step counts.
 
-why the nature of data is needed, there are 3 important point  which  is to be able to distinguish between different kinds of data because their nature has
+* Why the nature of data is needed, there are 3 important point  which  is to be able to distinguish between different kinds of data because their nature has
 important implications for their reliability and for the sort of analysis to which they can be subjected.
 
 
-o `Describe the process of data collection.`
+`Describe the process of data collection.`
 
-Collection includes apple watch ,electrical trackers.
+* **Collection methods**: Apple watch ,Electrical trackers.
 
-o `Describe aspects related to data ownership and data owners.`
+ `Describe aspects related to data ownership and data owners.`
 
-data ownership: people who donated data in our class
+* **Data ownership**: People who donated data in our class
 
-data owners: the data own by the teacher
-
-
-o `State any potential conflicts of interest.`
-
-So the data is mostly about the privacy of the data ownership, their privacy might be leak.Some data and result analyses by the data can be sensitive and Transparency,otherwise the data only for research use and not in a profit way.
+* **Data owners**:  Our coordinator --- Judy Kay.
 
 
-o `Describe how you ensured anonymisation and reduced the risk of re-identification of data with the people and justify any actions taken (if your group collected data)`
+`State any potential conflicts of interest.`
 
-First the data without any personal identity, So we do not konw other information other than steps,Moreover our sub question is based on the aspect of relationship between steps and temperature, healthy,rainfall,seasons to research and analyses, those aspect does not attack personal identity, also our analyses all related to the outside factors which we have avoided to develop re-identification of data.
+* **So the data is mostly about the privacy of the data ownership, their privacy might be leak.Some data and result analyses by the data can be sensitive and Transparency,otherwise the data only for research use and not in a profit way.**
 
-o `Describe how you have managed the data and will manage it at the completion of the project.`
 
-To how we managed the data, we first use colab to explore the data and see the detail information of the data, and simply do some data cleaning, with rename drop missing value, Based on our driving question we process the data into week-to-week form where we define the column week,steps.Then we use the data to do some analyses, and upload into github to protect the orginal data, otherwise, we also print out the data that has been cleaned and also upload into github, and we used it in the final product notebook.
+`Describe how you ensured anonymisation and reduced the risk of re-identification of data with the people and justify any actions taken (if your group collected data)`
+
+* **First the data without any personal identity, So we do not konw other information other than steps,Moreover our sub question is based on the aspect of relationship between steps and temperature, healthy,rainfall,seasons to research and analyses, those aspect does not attack personal identity, also our analyses all related to the outside factors which we have avoided to develop re-identification of data.**
+
+`Describe how you have managed the data and will manage it at the completion of the project.`
+
+* **To how we managed the data, we first use colab to explore the data and see the detail information of the data, and simply do some data cleaning, with rename drop missing value, Based on our driving question we process the data into week-to-week form where we define the column week,steps.Then we use the data to do some analyses, and upload into github to protect the orginal data, otherwise, we also print out the data that has been cleaned and also upload into github, and we used it in the final product notebook.**
 
  
  
