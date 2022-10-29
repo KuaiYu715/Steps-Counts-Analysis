@@ -22,7 +22,7 @@
   
   - Meeting minutes
   
-  - Ethical analysis
+  - [Ethical analysis](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/wiki/Ethical-consideration)
  
   - Cognitive walkthrough
   
