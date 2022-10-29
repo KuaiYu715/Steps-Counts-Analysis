@@ -147,6 +147,20 @@ Summary of files, tables, and fields. You can use markdown `tables` here to impr
 
 ### Why it is matters
 
+## Cognitive walkthrough
+
+| Name      | Advantage     | Disadvantage     |
+| ---------- | :-----------:  | :-----------: |
+| **Lixin Mu**     | 第一列     | 第二列     |
+| **Sun Ran**     | 第一列     | 第二列     |
+| **Yuxiang Ji**     | Good anlysis on logisitic regression and checked the accuracy of the model.| The data selected by logistic regression is random. It is unclear to distinguish the week which step data belons for.|
+| **De Shi**     | 第一列     | 第二列     |
+| **Pengyu Liu**     | 第一列     | 第二列     |
+| **Kuai Yu**     | 第一列     | 第二列     |
+
+
+
+
 ### Stakeholder analysis
 
 ### Raw Data
