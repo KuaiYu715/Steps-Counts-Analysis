@@ -141,11 +141,9 @@ Our data is about steps data for each day recorded by participants' activity tra
  
 ### Data definitions
 
-Summary of files, tables, and fields. You can use markdown `tables` here to improve the formating of the information.
 
 ## Ethicals considerations
 
-### Why it is matters
 
 ## Cognitive walkthrough
 
