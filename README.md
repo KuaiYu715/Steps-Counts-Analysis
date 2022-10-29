@@ -133,7 +133,6 @@ weeks that are needed.
 # Key files
 
 
-# Individual Contribution
 
 ### Data origin
 
@@ -198,6 +197,7 @@ o `Describe how you have managed the data and will manage it at the completion o
 To how we managed the data, we first use colab to explore the data and see the detail information of the data, and simply do some data cleaning, with rename drop missing value, Based on our driving question we process the data into week-to-week form where we define the column week,steps.Then we use the data to do some analyses, and upload into github to protect the orginal data, otherwise, we also print out the data that has been cleaned and also upload into github, and we used it in the final product notebook.
 
  
+ # Individual Contribution
 ## Getting started
 
 Short list of intructions for new collaborators to get up and running with the project.
