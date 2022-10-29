@@ -164,7 +164,7 @@ important implications for their reliability and for the sort of analysis to whi
 * **Data owners**:  Our coordinator --- Judy Kay.
 
 * **Date origin**: Our data is about step data for each day recorded by participants' activity trackers. Some trackers recorded the steps data seperated by time in hours or date. Most of data had got from Apple Health processed with a python script to convert the xml to csv.
-* 
+
 <br>
 
 `State any potential conflicts of interest.`
