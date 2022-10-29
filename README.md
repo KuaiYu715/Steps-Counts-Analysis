@@ -146,8 +146,8 @@ weeks that are needed.
 
 * **Numerical**: Step counts.
 
-* Why the nature of data is needed, there are 3 important point  which  is to be able to distinguish between different kinds of data because their nature has
-important implications for their reliability and for the sort of analysis to which they can be subjected.
+* **Why the nature of data is needed, there are 3 important point  which  is to be able to distinguish between different kinds of data because their nature has
+important implications for their reliability and for the sort of analysis to which they can be subjected.**
 
 
 `Describe the process of data collection.`
