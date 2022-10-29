@@ -104,7 +104,7 @@ weeks that are needed.
 # Ethical Considerations. 
 #### [Wiki page](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/wiki/Ethical-consideration)
 
--------------------
+<br>
 
 ## Purpose
 
@@ -128,7 +128,7 @@ weeks that are needed.
 
 * For fairness of results, the conclusion should be applied to the majority of people in order to promote heteroskedasticity.
 
------
+
 
 
 
@@ -136,7 +136,7 @@ weeks that are needed.
 
 ## Stakeholder analysis
 
-----
+
 
 ## Raw Data
 
