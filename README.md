@@ -187,17 +187,9 @@ important implications for their reliability and for the sort of analysis to whi
  
  # Key files
 
-## Product notbook.
+## Product notbook
 
-## Meeting minutes.
-
-## Reflection on Group Process
-
-
-## Data origin
-
-Our data is about steps data for each day recorded by participants' activity trackers. Some trackers recorded the steps data seperated by time in hours or date. Predictors are asked for step data. Most of data are gotten from Apple Health processed with a python script to convert the xml to csv.
- 
+## Meeting minutes
 
 
 ## Cognitive walkthrough
@@ -213,7 +205,9 @@ Our data is about steps data for each day recorded by participants' activity tra
 
 ## Think aloud
 
- # Individual Contribution
+## Reflection on Group Process
+
+# Individual Contribution
  
 ## Getting started
 
