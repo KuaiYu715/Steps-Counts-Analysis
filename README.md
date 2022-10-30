@@ -11,7 +11,7 @@
   
   - [Why it matters](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/blob/main/README.md#why-it-matters)
   
-  - Stakeholder Analysis
+  - [Stakeholder Analysis](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/blob/main/README.md#stakeholder-analysis)
   
   - [Raw Data](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/blob/main/README.md#raw-data)
   
@@ -103,6 +103,9 @@ weeks that are needed.
 
 # Ethical Considerations. 
 #### [Wiki page](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/wiki/Ethical-consideration)
+
+![ethical](https://media.github.sydney.edu.au/user/10750/files/684c348b-f6a7-44f3-8e22-95a5f232f5c8)
+
 
 <br>
 
