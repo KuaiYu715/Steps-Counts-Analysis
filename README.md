@@ -211,6 +211,8 @@ important implications for their reliability and for the sort of analysis to whi
 
 ## Think aloud
 
+[Yuxiang Ji](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/wiki/Yuxiang-Ji#think-aloud)
+
 ## Reflection on Group Process
 
 # Individual Contribution
