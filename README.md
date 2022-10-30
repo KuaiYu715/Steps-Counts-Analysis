@@ -26,7 +26,7 @@
  
   - [Cognitive walkthrough](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/blob/main/README.md#cognitive-walkthrough)
   
-  - Think aloud
+  - [Think aloud](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/blob/main/README.md#think-aloud)
   
   - Reflection on Group Process
 
