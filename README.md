@@ -175,19 +175,19 @@ important implications for their reliability and for the sort of analysis to whi
 
 `State any potential conflicts of interest.`
 
-* **So the data is mostly about the privacy of the data ownership, their privacy might be leak.Some data and result analyses by the data can be sensitive and Transparency,otherwise the data only for research use and not in a profit way.**
+* **The data is mostly about the privacy of the data ownership, their privacy might be leak.Some data and result analyses by the data can be sensitive and Transparency,otherwise the data only for research use and not in a profit way.**
 
 <br>
 
 `Describe how you ensured anonymisation and reduced the risk of re-identification of data with the people and justify any actions taken (if your group collected data)`
 
-* **First the data without any personal identity, So we do not konw other information other than steps,Moreover our sub question is based on the aspect of relationship between steps and temperature, healthy,rainfall,seasons to research and analyses, those aspect does not attack personal identity, also our analyses all related to the outside factors which we have avoided to develop re-identification of data.**
+* **First the data without any personal identity, So we do not know other information other than steps, Moreover, our sub-question is based on the aspect of the relationship between steps and temperature, healthy, rainfall, and seasons to research and analyses, those aspects does not attack personal identity, also our analyses all related to the outside factors which we have avoided to develop re-identification of data.**
 
 <br>
 
 `Describe how you have managed the data and will manage it at the completion of the project.`
 
-* **To how we managed the data, we first use colab to explore the data and see the detail information of the data, and simply do some data cleaning, with rename drop missing value, Based on our driving question we process the data into week-to-week form where we define the column week,steps.Then we use the data to do some analyses, and upload into github to protect the orginal data, otherwise, we also print out the data that has been cleaned and also upload into github, and we used it in the final product notebook.**
+* **To how we managed the data, we first use colab to explore the data and see the detailed information of the data, and simply do some data cleaning, with renaming drop missing values, Based on our driving question we process the data into a week-to-week form where we define the column week, steps. Then we use the data to do some analyses, and upload it into GitHub to protect the original data, otherwise, we also print out the data that has been cleaned and also upload it into GitHub, and we used it in the final product notebook.**
 
  
  
