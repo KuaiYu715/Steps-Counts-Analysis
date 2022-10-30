@@ -197,7 +197,7 @@ important implications for their reliability and for the sort of analysis to whi
 | Name      | Advantage     | Disadvantage     |
 | ---------- | :-----------:  | :-----------: |
 | **Lixin Mu**     | 第一列     | 第二列     |
-| **Sun Ran**     | 第一列     | 第二列     |
+| **Ran Sun**     | Basic time series used to find step trend that related to temperature.     | 第二列     |
 | **Yuxiang Ji**     | Good anlysis on logisitic regression and checked the accuracy of the model.| The data selected by logistic regression is random. It is unclear to distinguish the week which step data belons for.|
 | **De Shi**     | 第一列     | 第二列     |
 | **Pengyu Liu**     | 第一列     | 第二列     |
