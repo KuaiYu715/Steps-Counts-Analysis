@@ -28,7 +28,7 @@
   
   - [Think aloud](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/blob/main/README.md#think-aloud)
   
-  - Reflection on Group Process
+  - [Reflection on Group Process](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/blob/main/README.md#reflection-on-group-process)
 
 - [Individual Contribution](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/blob/main/README.md#individual-contribution)
     
