@@ -203,7 +203,7 @@ important implications for their reliability and for the sort of analysis to whi
 | Name      | Advantage     | Disadvantage     |
 | ---------- | :-----------:  | :-----------: |
 | **Lixin Mu**     | 第一列     | 第二列     |
-| **Ran Sun**     | Basic time series used to find step trend that related to temperature.     | 第二列     |
+| **Ran Sun**     | Basic time series used to find step trend that related to temperature.     | The temperature is an uncertrain factor, it is hard to gain accurate conclusion for the sub-question.     |
 | **Yuxiang Ji**     | Good anlysis on logisitic regression and checked the accuracy of the model.| The data selected by logistic regression is random. It is unclear to distinguish the week which step data belons for.|
 | **De Shi**     | Good process of data cleaning with clear step and with graphical visualization to see the whole data, Sub question related to real life    | The sub question may not connect to the praticipant dataset for 07, it's hard to figure out the close relationship between steps and average rainfall in sydney   |
 | **Pengyu Liu**     | The time of the data is divided into seasons, and a lot of data visualization is done to make it easier to observe     | Because of the lack of data in certain months, we cannot perfectly observe the trend of the four seasons.     |
