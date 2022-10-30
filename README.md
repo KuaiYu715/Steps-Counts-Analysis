@@ -135,7 +135,8 @@ weeks that are needed.
 
 
 ## Stakeholder analysis
-
+`Students`
+* Our research results are of direct help to students' physical health, because students can refer to our healthy step count standard to measure whether they are in a healthy state at all times. When students are at a lower step count level, they Will generate the belief to go out and exercise to become healthier
 
 
 ## Raw Data
