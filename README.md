@@ -20,7 +20,7 @@
 
   - [Product notebook](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/blob/main/README.md#product-notbook)
   
-  - Meeting minutes
+  - [Meeting minutes](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/blob/main/README.md#meeting-minutes)
   
   - [Ethical analysis](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/wiki/Ethical-consideration)
  
