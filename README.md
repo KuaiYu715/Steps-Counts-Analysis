@@ -140,6 +140,8 @@ weeks that are needed.
 
 
 ## Raw Data
+<img width="165" alt="raw" src="https://media.github.sydney.edu.au/user/10750/files/00bc1956-6544-4724-98f2-fef79004f52c">
+
 
 `Nature of raw data include Categorical and numerical`
 
