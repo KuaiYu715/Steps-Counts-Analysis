@@ -210,6 +210,8 @@ important implications for their reliability and for the sort of analysis to whi
 | **Kuai Yu**     | Using streamlined code to explore the data, and added new columns based on the study, the data was divided into two parts from the standard line and expressed as binomial value. The visualization is clearly labled, easy to understand   | The sub question was simple. No further processing of the 0 value was done as it was not possible to determine the reason for the occurrence of the 0 value. And for result, the accuracy is unsecured   |
 
 ## Think aloud
+<img width="324" alt="graph" src="https://media.github.sydney.edu.au/user/10750/files/d6a93774-781a-4ad6-8972-3ac329158d05">
+
 
 * [Yuxiang Ji](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/wiki/Yuxiang-Ji#think-aloud)
 
