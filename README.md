@@ -211,7 +211,9 @@ important implications for their reliability and for the sort of analysis to whi
 
 ## Think aloud
 <img width="324" alt="graph" src="https://media.github.sydney.edu.au/user/10750/files/d6a93774-781a-4ad6-8972-3ac329158d05">
+
 Sub question:How does week-to-week data illustrates the probability of participate getting healthy?
+
 Participant8
 
 * [Yuxiang Ji](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/wiki/Yuxiang-Ji#think-aloud)
