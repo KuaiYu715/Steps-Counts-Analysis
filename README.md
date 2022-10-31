@@ -202,7 +202,7 @@ important implications for their reliability and for the sort of analysis to whi
 
 | Advantage     | Improvement     |
 | :-----------:  | :-----------: |
-| 第一列     | 第二列     |
+| Advantage: First the significant impressive point is that we have the clear direction througth the whole project, We have sepreate the job for each of the member in our group which lead to we have a great structure of readme in the github. while we have an outlook which has been designed before write the readme file of the read for audience to go thorugh the detail with link for the key words and also provide some visulization to help reading smoothly. Moreover you can discover that our wiki with clear process of work that our group members do, We divide the part which include individual work ,it includes each week how we process with the project and with realtive work link in github. Wiki also support group cooprate work with organized structure, you can find the group roles to find what each group memberplay in the group.Otherwise The github has been orgainzed that you can find code or dataset of each gourp member,We are willing to show the whole project to everyone.     | 第二列     |
 
 
 ## Think aloud
