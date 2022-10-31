@@ -200,7 +200,7 @@ important implications for their reliability and for the sort of analysis to whi
 
 ## Cognitive walkthrough
 
-| Name      | Advantage     | Disadvantage     |
+| Name      | Advantage     | Improvement     |
 | ---------- | :-----------:  | :-----------: |
 | **Lixin Mu**     | 第一列     | 第二列     |
 | **Ran Sun**     | Basic time series used to find step trend that related to temperature.     | The temperature is an uncertrain factor, it is hard to gain accurate conclusion for the sub-question.     |
