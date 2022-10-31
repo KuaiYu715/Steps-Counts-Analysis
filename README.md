@@ -200,14 +200,10 @@ important implications for their reliability and for the sort of analysis to whi
 
 ## Cognitive walkthrough
 
-| Name      | Advantage     | Improvement     |
-| ---------- | :-----------:  | :-----------: |
-| **Lixin Mu**     | 第一列     | 第二列     |
-| **Ran Sun**     | Basic time series used to find step trend that related to temperature.     | The temperature is an uncertrain factor, it is hard to gain accurate conclusion for the sub-question.     |
-| **Yuxiang Ji**     | We worked wll as a group. We cooperated with other and finished hard jobs.| Some of sub-questions should be improved. Some of them are hard to analysis for a reasonabe result or a suitable model. The logistic regression model is not good enough either.|
-| **De Shi**     | Good process of data cleaning with clear step and with graphical visualization to see the whole data, Sub question related to real life    | The sub question may not connect to the praticipant dataset for 07, it's hard to figure out the close relationship between steps and average rainfall in sydney   |
-| **Pengyu Liu**     | The time of the data is divided into seasons, and a lot of data visualization is done to make it easier to observe     | Because of the lack of data in certain months, we cannot perfectly observe the trend of the four seasons.     |
-| **Kuai Yu**     | Using streamlined code to explore the data, and added new columns based on the study, the data was divided into two parts from the standard line and expressed as binomial value. The visualization is clearly labled, easy to understand   | The sub question was simple. No further processing of the 0 value was done as it was not possible to determine the reason for the occurrence of the 0 value. And for result, the accuracy is unsecured   |
+| Advantage     | Improvement     |
+| :-----------:  | :-----------: |
+| 第一列     | 第二列     |
+
 
 ## Think aloud
 <img width="324" alt="graph" src="https://media.github.sydney.edu.au/user/10750/files/d6a93774-781a-4ad6-8972-3ac329158d05">
