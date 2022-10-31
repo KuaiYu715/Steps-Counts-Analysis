@@ -202,9 +202,9 @@ important implications for their reliability and for the sort of analysis to whi
 
 | Advantage     | Improvement     |
 | :-----------:  | :-----------: |
-| 第一列     | 1. Issue: The topic of the allocated issues are generally broad and there are no reflections after finishing each one. <br>
-|.          | 2. Stakeholder: Catering to the stakeholder analysis, basically we were targeting students, hence the stakeholders are not comprehensive which leads to an unsolid conclusion. 
-|.          |<br> 3. Collaboration: Overall, we had good cooperation with the group members. Despite this, we need to use GitHub and colab more proficiently in case of code docking. Sometimes we met a merge problem and we took so much time on rearranging them.   |
+| Advantage: First the significant impressive point is that we have the clear direction througth the whole project, We have sepreate the job for each of the member in our group which lead to we have a great structure of readme in the github. while we have an outlook which has been designed before write the readme file of the read for audience to go thorugh the detail with link for the key words and also provide some visulization to help reading smoothly. | 1. Issue: The topic of the allocated issues are generally broad and there are no reflections after finishing each one.
+|Moreover you can discover that our wiki with clear process of work that our group members do, We divide the part which include individual work ,it includes each week how we process with the project and with realtive work link in github. Wiki also support group cooprate work with organized structure, you can find the group roles to find what each group memberplay in the group. | 2. Stakeholder: Catering to the stakeholder analysis, basically we were targeting students, hence the stakeholders are not comprehensive which leads to an unsolid conclusion. 
+|Otherwise The github has been orgainzed that you can find code or dataset of each gourp member,We are willing to show the whole project to everyone. |<br> 3. Collaboration: Overall, we had good cooperation with the group members. Despite this, we need to use GitHub and colab more proficiently in case of code docking. Sometimes we met a merge problem and we took so much time on rearranging them.   |
 
 
 ## Think aloud
