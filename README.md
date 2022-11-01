@@ -246,6 +246,30 @@ Participant8
 
 * **Wiki page**: [Link](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/wiki/Ran-Sun)
 
+`Lixin Mu`
+
+* **Issues**: [issue1](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/issues/24) [issue2](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/issues/23) [issue3](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/issues/29) [issue4](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/issues/32) [issue5](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/issues/20)
+
+* **Variable**: [p2-data1](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/blob/main/Final%20product%20notebook/Final_dataset/p2-data1.csv) 
+
+   - This dataset contains date and count as columns where pre-process has been done which missing values are filled and date was already in ascending order. Moreover, groupby method has been applied and outliers were deleted. 
+   
+   - It includes two main variables `Date` in datetime data type  and `Count` in numerical data type.
+   
+        [p2-data2](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/blob/main/Final%20product%20notebook/Final_dataset/p2-data2.csv)
+   
+   - This data is the original copy of participant2's data.    
+   
+        [p2-data3](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/blob/main/Final%20product%20notebook/Final_dataset/p2-data3.csv)
+     
+   - This data is similar to p2-data1 with one extra column to store a different type of date.
+
+        [p2-data4](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/blob/main/Final%20product%20notebook/Final_dataset/p2-data4.csv)
+     
+   - This data is also similar to p2-data1 with one extra column to store 0 and 1 for representing wether the participant is sedentary.
+
+* **Wiki page**: [Link](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/wiki/Lixin-Mu)
+
 `Kuai Yu`
 
 * **Issues**: [issue1](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/issues/5). [issue2](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/issues/20). [issue3](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/issues/23). [issue4](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/issues/27). [issue5](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/issues/32).
@@ -266,7 +290,7 @@ Participant8
 * **Variable**: [Participant 08](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/blob/main/Final%20product%20notebook/Final_dataset/Participant-08.csv) [ShiDe_cleaned_08.csv](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/blob/main/Final%20product%20notebook/Final_dataset/ShiDe_cleaned_08.csv) [Weeks_and_steps_08.csv](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/blob/main/Final%20product%20notebook/Final_dataset/Weeks_and_steps_08.csv)
     - My original dataset is the Participant 08. I used it in most of time to run my team mate's code.
     - The second data set is the cleaned participant 8 data. It is only for fitting De Shi's code.
-    - The last dataset called Weeks_and_steps_08.csv. That is the cleaned dataset for Yuxiang's subquestion. Due to his sub-question has a step standard principle which is 700000 per week. So the data should be added a column to store 0 and 1 for representing weather the participant is sedentary.
+    - The last dataset called Weeks_and_steps_08.csv. That is the cleaned dataset for Yuxiang's subquestion. Due to his sub-question has a step standard principle which is 700000 per week. So the data should be added a column to store 0 and 1 for representing wether the participant is sedentary.
 
 * **WIKI page**: [WIKI](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/wiki/Yuxiang-Ji)
  
@@ -302,6 +326,7 @@ Participant8
    - The participant07_new &participant_clean which are the dataset haven been clean and include date and steps, date are seprated into week-to-week form.
 
 * **Wiki page**: [WIKI](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/wiki/De-shi)
+
 
 ## Getting started
 
