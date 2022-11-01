@@ -139,7 +139,7 @@ weeks that are needed.
 * Due to this participant took more steps during the final week so we deduced that our targeting object is uni student. Our research results would help students realize their healthy status and then adjust it,refering to our healthy step count standard and health indicator to measure whether they are in a healthy state or not. Besides students， people who suffer high tension lifestyle can also use this indicator to keep fit.
 
 `Non-profit medical organization`
-* The relationships between steps and weather & temperature are shown clearly by the report. People might not be willing to walk like shower or hot days. Some medical organization can prompt people to walk or do some activities for no profit instead. Based on trends in our research, we exhort users to pay attention to daily activities at times when step counts are likely to be low to avoid potential health risk.
+* The relationships between steps and weather & temperature are shown clearly by the report. People might not be willing to walk on shower days or hot days. Some medical organizations can prompt people to walk or do some activities for no profit instead. Based on trends in our research, we exhort users to pay attention to daily activities at times when step counts are likely to be low to avoid potential health risks.
 
 
 ## Raw Data
