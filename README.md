@@ -245,6 +245,19 @@ Participant8
    - It includes two main variables `Date` in datetime data type  and `Count` in numerical data type.
 
 * **Wiki page**: [Link](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/wiki/Ran-Sun)
+
+`Kuai Yu`
+
+* **Issues**: [issue1](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/issues/5). [issue2](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/issues/20). [issue3](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/issues/23). [issue4](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/issues/27). [issue5](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/issues/32).
+
+* **Variable**: [Pre-cleaned Data](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/blob/main/Final%20product%20notebook/Final_dataset/P03.csv) for participant 3.
+    - This dataset was pre-cleaned in previous weeks. 'NA' values were dropped and grouped by weeks. Steps' counts were summarised for each week.
+
+    - THis dataset includes 2 variables. 'Start' is the date of weeks which in datetime data type, and 'Step (count)' is numerical data.
+
+    - Two new colums were added for analysis. 'nth week' is the index of weeks which is factor. And 'diabetes' is binary data includes 'high risk' and 'low risk'. The cut-off value is 50000.
+
+* **WIKI page**: [WIKI](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/wiki/Kuai-Yu)
  
 ## Getting started
 
