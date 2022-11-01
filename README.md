@@ -224,6 +224,10 @@ Participant8
 * [Lixin Mu](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/wiki/Lixin-Mu#think-aloud)
 
 * [De shi](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/wiki/De-shi#think-aloud)
+
+* [Kuai Yu](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/wiki/Kuai-Yu#think-aloud)
+
+* [Pengyu Liu](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/wiki/Pengyu-Liu#think-aloud)
 ## Reflection on Group Process
 
 # Individual Contribution
