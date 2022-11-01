@@ -136,7 +136,7 @@ weeks that are needed.
 ![FiscalNote-managing-multiple-stakeholders](https://media.github.sydney.edu.au/user/10750/files/b96d0fa6-5b76-44df-aa08-ec711664f612)
 
 `Students`
-* Our research results are of direct help to students' physical health, because students can refer to our healthy step count standard to measure whether they are in a healthy state at all times. When students are at a lower step count level, they Will generate the belief to go out and exercise to become healthier
+* Due to this participant took more steps during the final week so we deduced that our targeting object is uni student. Our research results would help students realize their healthy status and then adjust it,refering to our healthy step count standard and health indicator to measure whether they are in a healthy state or not. Besides students， people who suffer high tension lifestyle can also use this indicator to keep fit.
 
 
 ## Raw Data
