@@ -236,7 +236,13 @@ Participant8
 
 * Issues: [issue1](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/issues/32) [issue2](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/issues/22) [issue3](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/issues/18) [issue4](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/issues/16) [issue5](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/issues/20)
 
-* Variable:
+* Variable: [Modified dataset](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/blob/main/Final%20product%20notebook/Final_dataset/modifydata.csv) for participant 05.
+
+   - This dataset is pre-processed that filling the missing values (NaN) with 0, sorting the date in a ascending order and combining the counts in duplicate  date.
+   
+   - It includes two main variables `Date` in datetime data type  and `Count` in numerical data type.
+
+* Wiki page: [Link](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/wiki/Ran-Sun)
  
 ## Getting started
 
