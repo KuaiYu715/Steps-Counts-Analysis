@@ -281,7 +281,7 @@ Participant8
 
     - Two new colums were added for analysis. 'nth week' is the index of weeks which is factor. And 'diabetes' is binary data includes 'high risk' and 'low risk'. The cut-off value is 50000.
 
-* **WIKI page**: [WiKi](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/wiki/Kuai-Yu)
+* **Wiki page**: [WiKi](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/wiki/Kuai-Yu)
 
 `Yuxiang Ji`
 
@@ -312,7 +312,7 @@ Participant8
    
    - The other 5 datasets are all the cleaned up Participant data is used to adapt the code of other players and implement the subquestions they explore
 
-* **Wiki page**: [WIKI](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/wiki/Pengyu-Liu)
+* **Wiki page**: [Wiki](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/wiki/Pengyu-Liu)
 
 `De shi`
 
