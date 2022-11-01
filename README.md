@@ -229,6 +229,11 @@ Participant8
 
 # Individual Contribution
 
+
+<img width="615" alt="7" src="https://media.github.sydney.edu.au/user/10750/files/3579b068-3330-489f-b220-6b63383b506c">
+
+
+
 `Ran Sun`
 
 * **Issues**: [issue1](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/issues/32) [issue2](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/issues/22) [issue3](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/issues/18) [issue4](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/issues/16) [issue5](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/issues/20)
