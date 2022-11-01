@@ -314,9 +314,9 @@ Participant8
  [for yuxiang ji](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/blob/main/Process%20notebook/Pengyu%20Liu/Dataset/final%20for%20yuxiangji.csv) 
  
 
-   - The p1 is my own data for participant 01 , and use it to run other's code.
+   - The p1 is my own data for participant 01 , and I used it to run other's code.
    
-   - The other 5 datasets are all the cleaned up Participant data is used to adapt the code of other players and implement the subquestions they explore
+   - The other 5 datasets are all cleaned up participant data that used to adapt codes of other players and implement the subquestions whta they have explored.
 
 * **Wiki page**: [Wiki](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/wiki/Pengyu-Liu)
 
@@ -327,7 +327,7 @@ Participant8
 * **Variable**: 
 * initial dataset for [participant07](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/blob/main/Final%20product%20notebook/Final_dataset/Participant-07.csv),Second use dataset for [participant07_clean](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/blob/main/Final%20product%20notebook/Final_dataset/Participant07_clean.csv),Last dataset for [participant07_new](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/blob/main/Final%20product%20notebook/Final_dataset/Participant07_new.csv)
 
-   - The participant07 is my orginal dataset , and use it to run the whole data, which has column about date(Start&Finish) and steps count.
+   - The participant07 is my orginal dataset , and used it to run the whole data, which has column about date(Start&Finish) and steps count.
    
    - The participant07_new &participant_clean which are the dataset haven been clean and include date and steps, date are seprated into week-to-week form.
 
