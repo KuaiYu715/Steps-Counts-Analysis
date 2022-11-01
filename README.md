@@ -295,7 +295,13 @@ Participant8
 * **Issues**: [issue1](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/issues/15) [issue2](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/issues/32) [issue3](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/issues/31) [issue4](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/issues/29) [issue5](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/issues/24)
 
 * **Variable**: 
-* initial dataset for [participant07](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/blob/main/Process%20notebook/De%20shi/Dataset/Participant-07.csv)
+* initial dataset for [participant07](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/blob/main/Final%20product%20notebook/Final_dataset/Participant-07.csv),Second use dataset for [participant07_clean](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/blob/main/Final%20product%20notebook/Final_dataset/Participant07_clean.csv),Last dataset for [participant07_new](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/blob/main/Final%20product%20notebook/Final_dataset/Participant07_new.csv)
+
+   - The participant07 is my orginal dataset , and use it to run the whole data, which has column about date(Start&Finish) and steps count.
+   
+   - The participant07_new &participant_clean which are the dataset haven been clean and include date and steps, date are seprated into week-to-week form.
+
+* **Wiki page**: [WIKI](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/wiki/De-shi)
 
 ## Getting started
 
