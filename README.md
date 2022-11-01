@@ -32,12 +32,7 @@
 
 - [Individual Contribution](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/blob/main/README.md#individual-contribution)
     
-
-
-
-
-
-- References
+- [References]()
 
 
 # Proejct description
