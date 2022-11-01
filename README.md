@@ -230,6 +230,8 @@ Participant8
 * [Pengyu Liu](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/wiki/Pengyu-Liu#think-aloud)
 ## Reflection on Group Process
 
+[Wiki page](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/wiki/Reflection-on-group-processes)
+
 # Individual Contribution
 
 
