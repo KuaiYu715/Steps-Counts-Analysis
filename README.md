@@ -244,7 +244,7 @@ Participant8
    
    - It includes two main variables `Date` in datetime data type  and `Count` in numerical data type.
 
-* **Wiki page**: [Link](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/wiki/Ran-Sun)
+* **Wiki page**: [Wiki](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/wiki/Ran-Sun)
 
 `Lixin Mu`
 
@@ -268,7 +268,7 @@ Participant8
      
    - This data is also similar to p2-data1 with one extra column to store 0 and 1 for representing wether the participant is sedentary.
 
-* **Wiki page**: [Link](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/wiki/Lixin-Mu)
+* **Wiki page**: [Wiki](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/wiki/Lixin-Mu)
 
 `Kuai Yu`
 
@@ -281,7 +281,7 @@ Participant8
 
     - Two new colums were added for analysis. 'nth week' is the index of weeks which is factor. And 'diabetes' is binary data includes 'high risk' and 'low risk'. The cut-off value is 50000.
 
-* **WIKI page**: [WIKI](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/wiki/Kuai-Yu)
+* **WIKI page**: [WiKi](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/wiki/Kuai-Yu)
 
 `Yuxiang Ji`
 
@@ -292,7 +292,7 @@ Participant8
     - The second data set is the cleaned participant 8 data. It is only for fitting De Shi's code.
     - The last dataset called Weeks_and_steps_08.csv. That is the cleaned dataset for Yuxiang's subquestion. Due to his sub-question has a step standard principle which is 700000 per week. So the data should be added a column to store 0 and 1 for representing wether the participant is sedentary.
 
-* **WIKI page**: [WIKI](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/wiki/Yuxiang-Ji)
+* **Wiki page**: [Wiki](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/wiki/Yuxiang-Ji)
  
  
 `Pengyu Liu`
@@ -325,30 +325,14 @@ Participant8
    
    - The participant07_new &participant_clean which are the dataset haven been clean and include date and steps, date are seprated into week-to-week form.
 
-* **Wiki page**: [WIKI](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/wiki/De-shi)
+* **Wiki page**: [Wiki](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/wiki/De-shi)
 
 
-## Getting started
-
-Short list of intructions for new collaborators to get up and running with the project.
-
-Example list of commands:
-
-- `$ git clone git@github.com/username/project.git`
-- `$ cd ./project`
-- `$ pip install`
-- `$ jupyter lab .`
-
-## Contributing
-
-Intructions on how to contribute to the project. Consider having a `CONTRIBUTING.md` file in the repository.
-
-## Project owner(s) & contact details
-
-Contact details of the people who created and/or are maintaing the project.
 
 
-## References
+
+
+# References
 How Many Steps/Day Are Enough?
 
 https://link.springer.com/article/10.2165/00007256-200434010-00001
@@ -357,8 +341,3 @@ How walking steps contributes reducing risk of diabetes.
 
 Colberg, S. R., Sigal, R. J., Fernhall, B., Regensteiner, J. G., Blissmer, B. J., Rubin, R. R., Chasan-Taber, L., Albright, A. L., & Braun, B. (2010). Exercise and type 2 diabetes: The American College of Sports Medicine and the American Diabetes Association: Joint position statement. Diabetes Care, 33(12), e147–e167. https://doi.org/10.2337/dc10-9990
 
-## License
-
-Include licensing information. Consider having a `LICENSE.md` file in the repository.
-
-[link]('google.com')
