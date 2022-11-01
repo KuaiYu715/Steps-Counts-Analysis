@@ -270,6 +270,26 @@ Participant8
 
 * **WIKI page**: [WIKI](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/wiki/Yuxiang-Ji)
  
+ 
+`Pengyu Liu`
+
+* **Issues**: [issue1](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/issues/25) [issue2](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/issues/32) [issue3](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/issues/31) [issue4](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/issues/29) [issue5](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/issues/24)
+
+* **Variable**: 
+ [p1](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/blob/main/Process%20notebook/Pengyu%20Liu/Dataset/final%20for%20p1.csv) 
+ [for Deshi](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/blob/main/Process%20notebook/Pengyu%20Liu/Dataset/final%20for%20deshi.csv) 
+ [for kuaiyu](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/blob/main/Process%20notebook/Pengyu%20Liu/Dataset/final%20for%20kuaiyu.csv) 
+ [for lixin mu](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/blob/main/Process%20notebook/Pengyu%20Liu/Dataset/final%20for%20lixinmu.csv) 
+ [for ransun](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/blob/main/Process%20notebook/Pengyu%20Liu/Dataset/final%20for%20ransun.csv) 
+ [for yuxiang ji](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/blob/main/Process%20notebook/Pengyu%20Liu/Dataset/final%20for%20yuxiangji.csv) 
+ 
+
+   - The p1 is my own data for participant 01 , and use it to run other's code.
+   
+   - The other 5 datasets are all the cleaned up Participant data is used to adapt the code of other players and implement the subquestions they explore
+
+* **Wiki page**: [WIKI](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/wiki/Pengyu-Liu)
+
 ## Getting started
 
 Short list of intructions for new collaborators to get up and running with the project.
