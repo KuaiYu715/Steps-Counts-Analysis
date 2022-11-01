@@ -138,6 +138,8 @@ weeks that are needed.
 
 
 ## Stakeholder analysis
+![FiscalNote-managing-multiple-stakeholders](https://media.github.sydney.edu.au/user/10750/files/b96d0fa6-5b76-44df-aa08-ec711664f612)
+
 `Students`
 * Our research results are of direct help to students' physical health, because students can refer to our healthy step count standard to measure whether they are in a healthy state at all times. When students are at a lower step count level, they Will generate the belief to go out and exercise to become healthier
 
