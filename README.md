@@ -197,6 +197,8 @@ important implications for their reliability and for the sort of analysis to whi
 
 ## Product notbook
 
+[Link](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/blob/main/Final%20product%20notebook/Final_product_notebook.ipynb)
+
 ## Meeting minutes
 
 Our group act satisfyingly collaborative through the whole process. In the first few weeks we meet each other every Saturday discussing about the TPP, feedbacks and the progress of the assignment. WeChat group chat was established in the beginning to keep communication with each other. As a team we followed checkpoints of the assignment in time such that we could keep up with the pace. In week 8 all the team members did data cleaning separately and discussed different sub questions individually. In week 9 and week 10 we swapped different datasets within the group and applied the code on them. GitHub issues and wiki were constantly tracked where all the teammates can keep up with the progress. In week 12 we finished personal report and presentation and finally we aggregated everything for assignment2. During these two weeks we increased the frequency of meeting as well due to the tense of deadlines. In conclusion, it was a pleasure journey and we enjoyed the whole progress :)
