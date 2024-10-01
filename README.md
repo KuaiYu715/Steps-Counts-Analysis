@@ -78,17 +78,17 @@ weeks that are needed.
 
 <br>
 
-* `Group manager:` Lixin Mu 490570753
+* `Group manager:` 
 
-* `Tracker:` Ran Sun 510224273
+* `Tracker:` 
 
-* `GitHub expert:` Kuai Yu 490443550
+* `GitHub expert:` 
 
-* `README co-ordinator:` Yuxiang Ji 500516414
+* `README co-ordinator:` 
 
-* `Group coordinator:` Pengyu Liu 500679649
+* `Group coordinator:` 
 
-* `Code adviser:` De Shi 510526247
+* `Code adviser:` 
 
 
 
@@ -239,7 +239,7 @@ Participant8
 
 
 
-`Ran Sun`
+`Sun`
 
 * **Issues**: [issue1](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/issues/32) [issue2](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/issues/22) [issue3](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/issues/18) [issue4](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/issues/16) [issue5](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/issues/20)
 
@@ -251,7 +251,7 @@ Participant8
 
 * **Wiki page**: [Wiki](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/wiki/Ran-Sun)
 
-`Lixin Mu`
+`Lixin`
 
 * **Issues**: [issue1](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/issues/24) [issue2](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/issues/23) [issue3](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/issues/29) [issue4](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/issues/32) [issue5](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/issues/20)
 
@@ -275,7 +275,7 @@ Participant8
 
 * **Wiki page**: [Wiki](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/wiki/Lixin-Mu)
 
-`Kuai Yu`
+`Kuai`
 
 * **Issues**: [issue1](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/issues/5). [issue2](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/issues/20). [issue3](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/issues/23). [issue4](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/issues/27). [issue5](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/issues/32).
 
@@ -288,7 +288,7 @@ Participant8
 
 * **Wiki page**: [WiKi](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/wiki/Kuai-Yu)
 
-`Yuxiang Ji`
+`Yu`
 
 * **Issues**: [issue 1](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/issues/33). [issue 2](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/issues/14). [issue 3](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/issues/20). [issue 4](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/issues/23). [issue 5](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/issues/23)
 
@@ -301,7 +301,7 @@ Participant8
 * **Wiki page**: [Wiki](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/wiki/Yuxiang-Ji)
  
  
-`Pengyu Liu`
+`Peng`
 
 * **Issues**: [issue1](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/issues/25) [issue2](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/issues/32) [issue3](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/issues/31) [issue4](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/issues/29) [issue5](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/issues/24)
 
@@ -320,7 +320,7 @@ Participant8
 
 * **Wiki page**: [Wiki](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/wiki/Pengyu-Liu)
 
-`De shi`
+`De`
 
 * **Issues**: [issue1](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/issues/15) [issue2](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/issues/32) [issue3](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/issues/31) [issue4](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/issues/29) [issue5](https://github.sydney.edu.au/rsun5771/2022-DATA3406-CC05-Group1/issues/24)
 
